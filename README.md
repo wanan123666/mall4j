@@ -85,6 +85,7 @@ https://gitee.com/gz-yami/mall4j/wikis
 
 ### 1. 后台截图
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/1110/143738_88a8a1e6_5094767.gif "后台.gif")
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwanan123666%2Fmall4j.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwanan123666%2Fmall4j?ref=badge_shield)
 
 
 
@@ -113,3 +114,7 @@ https://gitee.com/gz-yami/mall4j/wikis
 https://gitee.com/gz-yami/mall4cloud
 
 ## 更多信息请查看官网 <https://www.mall4j.com>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwanan123666%2Fmall4j.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwanan123666%2Fmall4j?ref=badge_large)
